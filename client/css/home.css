@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+.splashScreenImg{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
