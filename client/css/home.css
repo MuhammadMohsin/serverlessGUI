@@ -52,6 +52,10 @@ body{
 .mainscreen-container > .project-options ul> li img{
     height: 24px;
     position: relative;
-    top: 10px;
+    top: 5px;
     right: 10px
+}
+.mainscreen-container > .project-options ul> li a{
+    text-decoration: none;
+    color: black;
 }
